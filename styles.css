@@ -24,9 +24,9 @@ margin-bottom: 150px;
 .img__text{
     position: absolute;
     z-index: 5;
-    top: 215px;
-    left: 384px;
-    width: 180px;
+    top: 254px;
+    left: 361px;
+    width: 182px;
     height: 102.96px;
     font-weight: 700;
     font-size: 16px;
@@ -35,7 +35,7 @@ margin-bottom: 150px;
 .img__server{
     position: absolute;
     z-index: 9;
-    bottom: 0;
+    bottom: -46px;
 }
 
 .img-fluid{
@@ -121,7 +121,7 @@ margin-bottom: 150px;
 .img__cup{
     position: absolute;
     z-index: 4;
-    width: 455px;
-    left: -17px;
+    width: 516px;
+    left: -60px;
     top: -9px;
 }
